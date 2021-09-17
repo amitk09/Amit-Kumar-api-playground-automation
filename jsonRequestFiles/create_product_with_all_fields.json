@@ -1,0 +1,12 @@
+{
+  "name": "${productName}",
+  "type": "${productType}",
+  "price": ${productPrice},
+  "shipping": ${productShipping},
+  "upc": "${productUpc}",
+  "description": "${productDesc}",
+  "manufacturer": "${productManufacturer}",
+  "model": "${productModel}",
+  "url": "${productUrl}",
+  "image": "${productImage}"
+}

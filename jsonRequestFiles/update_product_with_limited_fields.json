@@ -1,0 +1,5 @@
+{
+  "name": "${productName}",
+  "type": "${productType}",
+  "price": ${productPrice}
+}

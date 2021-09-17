@@ -1,0 +1,7 @@
+{
+  "name": "${productName}",
+  "type": "${productType}",
+  "upc": "${productUpc}",
+  "description": "${productDesc}",
+  "model": "${productModel}"
+}
