@@ -8,7 +8,7 @@ Below is the Tools and Technology used in this project:
 Below is the steps to run this project on your local machine :
 •	Install Java 11 and setup Environment variables
 •	Download Maven 3.3.9 (to run project using command line) and setup Environment variables
-•	Install Node 8 
+•	Install NodeJS 8 
 •	git clone https://github.com/bestbuy/api-playground/
 •	cd api-playground
 •	npm install
