@@ -1,1 +1,19 @@
-will add Instruction later today.
+Below is the Tools and Technology used in this project:
+•	Java 11
+•	Rest Assured
+•	Cucumber BDD 
+•	Maven 3.3.9
+•	Junit
+
+Below is the steps to run this project on your local machine :
+•	Install Java 11 and setup Environment variables
+•	Download Maven 3.3.9 (to run project using command line) and setup Environment variables
+•	Install Node 8 
+•	git clone https://github.com/bestbuy/api-playground/
+•	cd api-playground
+•	npm install
+•	npm start
+•	git clone https://github.com/amitk09/Amit-Kumar-api-playground-automation.git
+•	cd api-playground-automation
+•	open command prompt or git bash and run ‘mvn clean install’
+•	Report will be available in “reports/advance-reports/cucumber-html-report” as  ‘overview-features’ once the execution is completed.
