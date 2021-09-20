@@ -27,5 +27,6 @@
 * Maven is powerful build tool to install, packaging, verify, running test using command line. It has very good support with plugin and is very easy to maintain dependecies. 
 * JSON files are used to generate request payload. it is easy to understand and manipulate the values according to test cases. 
 * JSON schema is used to validate the response schema like fields present in response, type of fields in response etc. 
+* src/test/features folders is having all the features files which contains scenario. feature directory is created based on resources and feature files are created based on operation like GET, POST etc.
 
 
