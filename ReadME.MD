@@ -25,4 +25,7 @@
 * Java 11 is used so that I can use some of the latest feature like Optional.Of, Filtering List or map using Stream API's etc.  
 * Cucumber BDD is used so that non technical person like BA, PO or People Manager can look into the feature file and number of actual test cases in Jira or Rally, so that its easier for them to calculate the test automation coverage. 
 * Maven is powerful build tool to install, packaging, verify, running test using command line. It has very good support with plugin and is very easy to maintain dependecies. 
+* JSON files are used to generate request payload. it is easy to understand and manipulate the values according to test cases. 
+* JSON schema is used to validate the response schema like fields present in response, type of fields in response etc. 
+
 
